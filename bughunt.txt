@@ -1,1 +1,22 @@
 Hunting the bug that didnt allow Ehiz to work 
+
+#Steps 1
+Olusegun
+- clone the repo
+- add a file
+- push to the repo
+====
+Status successful
+
+#Step 2
+Ehiz
+
+- Click on you profile icon, it will give you plenty options
+- Scroll down to settings and choose it
+- When it loadded settings, look at the left options at the buttom for developer settings and choose it
+- It will load and give you three options
+- Choose personal access token
+- Choose token classic
+- You will see available tokens and epiry date. Check if the token has not expired
+- If it is, create a new one, if its not still create a new one
+- Use the new token to push
